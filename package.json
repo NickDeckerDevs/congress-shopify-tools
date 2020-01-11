@@ -1,0 +1,19 @@
+{
+  "name": "congress-shopify-tools",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickDeckerDevs/congress-shopify-tools.git"
+  },
+  "author": "nicholas decker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickDeckerDevs/congress-shopify-tools/issues"
+  },
+  "homepage": "https://github.com/NickDeckerDevs/congress-shopify-tools#readme"
+}
