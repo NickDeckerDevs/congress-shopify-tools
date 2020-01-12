@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/NickDeckerDevs/congress-shopify-tools/issues"
   },
-  "homepage": "https://github.com/NickDeckerDevs/congress-shopify-tools#readme"
+  "homepage": "https://github.com/NickDeckerDevs/congress-shopify-tools#readme",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "dotenv": "^8.2.0"
+  }
 }
